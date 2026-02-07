@@ -23,4 +23,3 @@ focusing on privacy preservation, non-IID data, and communication-efficient trai
 3. Run experiment scripts
 
 ## Results
-(Insert your plots here)
