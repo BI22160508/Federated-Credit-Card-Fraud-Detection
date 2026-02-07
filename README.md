@@ -4,6 +4,16 @@
 This project implements a federated learning framework for credit card fraud detection,
 focusing on privacy preservation, non-IID data, and communication-efficient training.
 
+-exp1.py / exp2.py / exp3.py = training
+
+-dv_exp*.py = plotting
+
+-data_partition.py = non-IID client split
+
+-exported_models/ = saved models
+
+-eval_demo_app.py = demo app
+
 ## Dataset
 
 This project uses the public **Credit Card Fraud Detection** dataset by ULB (Kaggle).
