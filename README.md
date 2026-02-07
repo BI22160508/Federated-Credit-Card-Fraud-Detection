@@ -35,3 +35,5 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 3. Run experiment scripts
 
 ## Results
+<img width="2670" height="1466" alt="F<img width="2670" height="1466" alt="Figure_6_X_Runwise_FNR_Comparison_DP_0_4" src="https://github.com/user-attachments/assets/229e70ba-3519-4a26-88f8-dadc55e53c5f" />
+igure_6_X_Runwise_FNR_DP_0_6" src="https://github.com/user-attachments/assets/187e419a-3512-4bb6-9aee-cb131e2a979f" />
