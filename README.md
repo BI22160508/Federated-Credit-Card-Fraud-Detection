@@ -38,7 +38,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 <img width="2970" height="1466" alt="Figure_4_X_Centralized_vs_Federated_Metric_Stability_exp1" src="https://github.com/user-attachments/assets/a50b1ec3-67ff-4db9-90a8-83b4834b3b31" />
 <img width="2970" height="1466" alt="Figure_4_X_Centralized_vs_Federated_Metric_Stability_exp2" src="https://github.com/user-attachments/assets/dabaa155-b827-4cf0-b4ac-532fa1f30753" />
-<img width="2970" height="1466" alt="Figure_6_X_FNR_Stability_FullFL_vs_TopKFL_NoDP" src="https://github.com/user-attachments/assets/27779160-4545-4b2d-88b3-b0c569f12d08" />
-<img width="2670" height="1466" alt="Figure_6_X_Runwise_FNR_Comparison_DP_0_4" src="https://github.com/user-attachments/assets/6e0e6b3e-3e77-438b-a61a-5d2cbbd6a81e" />
-<img width="2670" height="1466" alt="Figure_6_X_Runwise_FNR_DP_0_6" src="https://github.com/user-attachments/assets/c82710e0-40ac-4184-ae9c-9521a2474588" />
-
+<img width="3270" height="1465" alt="Figure_5_X_FullFL_vs_TopKFL_Performance_and_Communication" src="https://github.com/user-attachments/assets/9c57a757-d1ea-4305-be0a-60363e746e1b" />
+<img width="3270" height="1465" alt="Figure_5_X_FullFL_vs_TopKFL_Performance_and_Communication_NonIID_0 4" src="https://github.com/user-attachments/assets/28d48976-6e02-4e8c-a654-dee14f4d3a83" />
+<img width="3270" height="1465" alt="Figure_5_X_FullFL_vs_TopKFL_Performance_and_Communication_0 6" src="https://github.com/user-attachments/assets/1a4b68af-c129-49da-ac79-b2aa9e129438" />
